@@ -19,7 +19,7 @@ Secure Data Handling: Customer data security is a priority. The website ensures 
 # How to Use Mepco-Bills.pk
 The platform is straightforward to use, even for individuals with minimal technical expertise. Below is a step-by-step guide:
 
-Visit the Website: Navigate to https://mepco-bills.pk/ using any web browser.
+Visit the official website of mepco bill.com
 
 Locate the Reference Number: Find your 14-digit reference number on a previous electricity bill. This number is unique to your electricity connection.
 
